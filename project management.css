@@ -1,0 +1,72 @@
+legend{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+form{
+    width: 60%;
+    height:700px;
+    padding-left: 40px;
+    margin:auto;
+}
+
+.div1{
+    background-color: lightblue;
+    padding-left: 10px;
+}
+
+input[type=text],input[type=date],select{
+    height: 30px;
+    width: 50%;
+    margin-top: 30px;
+}
+
+label,p{
+    font-weight: bold;
+}
+.b1{
+    background-color: chartreuse;
+    height: 30px;
+    width: 70px;
+}
+.b2{
+    background-color: #623385;
+    height: 30px;
+     width: 70px;
+}
+.buttons{
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+
+.textarea{
+    margin-left: 50px;
+}
+select{
+    margin-left: 45px;
+}
+.sd{
+    margin-left: 60px;
+}
+.ed{
+    margin-left: 70px;
+}
+input[type=text]{
+    margin-left: 30px;
+}
+.ck{
+    margin-left: 100px;
+}
+
+.lhigh{
+    margin-left: 85px;
+}
+
+p{
+    margin-right: 70px;
+}
+select{
+    width: 257px;
+}

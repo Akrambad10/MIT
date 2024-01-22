@@ -1,0 +1,50 @@
+body{
+    background-color: maroon;
+}
+form{
+    background-color: #c06565;
+    width: 60%;
+    height: 500px;
+    padding-left: 40px;
+    margin: auto;
+button{
+    width: 400px;
+    height: 40px;
+}
+input[type=text],input[type=date],input[type=email],input[type=number],input[type=password],select{
+
+    margin-top: 20px;
+    height: 20px;
+    border-radius: 5px;
+}
+label{
+    color: white;
+}
+select{
+width:190px;
+    height: 30px;
+}
+
+textarea{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.male{
+margin-left: 85px}
+}
+input[type=text],input[type=email]{
+    margin-left: 100px;
+}
+input[type=password]{
+    margin-left: 70px;
+}
+.phone{
+    margin-left: 27px;
+}
+select{
+    margin-left: 70px;
+}
+.zcod{
+    margin-left: 70px;
+    width: 187px;
+}
